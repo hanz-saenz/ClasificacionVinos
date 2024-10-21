@@ -36,17 +36,17 @@ pip install pandas numpy matplotlib seaborn scikit-learn mlflow
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone <URL del repositorio>
+git clone (https://github.com/hanz-saenz/ClasificacionVinos.git)
 ```
 Navega al directorio del proyecto:
 
 ```bash
-cd nombre_del_directorio
+cd ClasificacionVinos
 ```
 Ejecuta el script de análisis:
 
 ```bash
-python nombre_del_script.py
+python clasificacion_vinos.py
 ```
 ## Descripción del Código
 Carga de Datos: Se carga el conjunto de datos desde una URL pública y se definen los nombres de las columnas.
@@ -79,6 +79,3 @@ Registro del Modelo con MLflow: Se registra el modelo y sus parámetros utilizan
 
 Predicción de Nuevas Muestras: Se realizan predicciones para nuevas muestras y se imprimen los resultados.
 
-### Notas
-- Asegúrate de reemplazar `<URL del repositorio>` con la URL real del repositorio donde se encuentra el código.
-- Cambia `nombre_del_directorio` y `nombre_del_script.py` con los nombres correctos según tu estructura de archivos.
