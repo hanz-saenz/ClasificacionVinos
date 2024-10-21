@@ -3,6 +3,9 @@
 
 Este proyecto utiliza un conjunto de datos de vinos para construir un modelo de clasificación utilizando el algoritmo de Random Forest. Se realizan varias etapas de procesamiento de datos, visualización, optimización de hiperparámetros y registro del modelo con MLflow.
 
+## Video
+Puedes ver el desarrollo de este ejercicio en https://youtu.be/C86qlioPOeE
+
 ## Contenido
 
 - Carga de datos
